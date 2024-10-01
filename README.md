@@ -18,4 +18,4 @@ We may collect the following information:
 - The right to request deletion of your personal data.
 - We may update our privacy policy from time to time. We will notify you of any changes by posting the new privacy policy on this page.
 - If you have any questions about this privacy policy, please contact us:
-- Email: [chinweike63@mail.com]
+- Email: chinweike63@mail.com
